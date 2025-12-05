@@ -3,6 +3,10 @@ AdMe
 
 AdMe is a browser extension that replaces online advertisements with positive, engaging content widgets such as motivational quotes, fun facts, riddles, jokes, custom messages, or memes. It enhances the browsing experience by transforming ad spaces into delightful, user-customizable content areas.
 
+<video src="https://raw.githubusercontent.com/USER/REPO/BRANCH/assets/demo.mp4" controls width="640">
+  Your browser does not support the video tag.
+</video>
+
 Features
 --------
 
